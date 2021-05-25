@@ -1,4 +1,4 @@
-Hi, I'm Michael Keyser. I am majoring in Applied Mathematics and Computer Engineering at the University of Utah. I currently work as an undergraduate research
+I am majoring in Applied Mathematics and Computer Engineering at the University of Utah. I currently work as an undergraduate research
 assistant in the Department of Biomedical Engineering.
 
 <!---
